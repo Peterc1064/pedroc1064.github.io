@@ -1,0 +1,36 @@
+p {
+    color: solid  rgb(27, 26, 26);
+    background-color: rgb(143, 143, 235);
+    font-size: 20px;
+  }
+
+p2 {
+    color: red;
+    
+
+}
+
+
+
+
+  ol {
+    color: solid  white;
+    background-color: blue;
+}
+
+
+li {
+    color: solid black;
+    background-color: rgb(103, 103, 239);
+    
+}
+   
+
+h1 {
+    color: rgb(241, 240, 231);
+    background-color: red;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+        
